@@ -1,0 +1,6 @@
+{
+  "name": "DynamicComponent",
+  "attrs": [
+    "onError"
+  ]
+}
