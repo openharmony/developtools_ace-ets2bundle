@@ -27,6 +27,7 @@
         "DataPanel",
         "DatePicker",
         "Divider",
+        "DynamicComponent",
         "Ellipse",
         "Flex",
         "FormComponent",
@@ -200,6 +201,11 @@
             "name": "Divider",
             "type": "DividerAttribute",
             "instance": "DividerInstance"
+          },
+          {
+            "name": "DynamicComponent",
+            "type": "DynamicComponentAttribute",
+            "instance": "DynamicComponentInstance"
           },
           {
             "name": "Ellipse",
